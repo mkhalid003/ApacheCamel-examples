@@ -1,0 +1,3 @@
+A Camel example with JBoss Fuse Develoepr.
+Copy files from inbox to outbox.
+This could be any of type file.
